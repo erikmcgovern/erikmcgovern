@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>Hello, I'm Erik! <br/><a href="https://github.com/erikmcgovern">Software Developer</a></h1>
 
-<!--
-**erikmcgovern/erikmcgovern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Software 2 Project</b>
+  - [Scheduling Desktop Application in Java](https://github.com/erikmcgovern/software-two)
+- <b>Capstone</b>
+  - [Rent Estimator in Python](https://github.com/erikmcgovern/capstone)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="erikmcgovern | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://linkedin.com/in/erikmcgovern
