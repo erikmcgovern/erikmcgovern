@@ -1,4 +1,4 @@
-<h1>Hello, I'm Erik! <br/><a href="https://github.com/erikmcgovern">Software Developer</a></h1><br>
+<h1>Hello, I'm Erik! <br/><a href="https://github.com/erikmcgovern">Software Developer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -7,7 +7,7 @@
 - <b>Capstone</b>
   - [Rent Estimator in Python](https://github.com/erikmcgovern/capstone)
 
-<br><h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="erikmcgovern | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
