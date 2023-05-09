@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Software 2 Project</b>
-  - [Scheduling Desktop Application in Java](https://github.com/erikmcgovern/software-two)
+  - [Scheduling Desktop Application in Java](https://github.com/erikmcgovern/SoftwareTwo)
 - <b>Capstone</b>
   - [Rent Estimator in Python](https://github.com/erikmcgovern/capstone)
 
