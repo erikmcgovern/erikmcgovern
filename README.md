@@ -1,11 +1,18 @@
 <h1>Hello, I'm Erik! <br/><a href="https://github.com/erikmcgovern">Software Developer</a></h1>
 
+
 <h2>👨‍💻 Software Development Projects:</h2>
+
+
 
 - <b>Software 2 Project</b>
   - [Scheduling Desktop Application in Java](https://github.com/erikmcgovern/SoftwareTwo)
 - <b>Capstone</b>
   - [Rent Estimator in Python](https://github.com/erikmcgovern/capstone)
+
+
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
