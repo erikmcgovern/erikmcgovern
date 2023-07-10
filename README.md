@@ -7,7 +7,8 @@
 - <b>Capstone</b>
   - [Rent Estimator in Python](https://github.com/erikmcgovern/capstone)
 - <b>TinDog Project</b>
-  - [HTML/CSS + Bootstrap](https://github.com/erikmcgovern/TinDog)
+  - [HTML/CSS + Bootstrap Files](https://github.com/erikmcgovern/TinDog)
+  - [Live Site](https://erikmcgovern.github.io/TinDog/)
 
 <h2> 🤳 Connect with me:</h2>
 
