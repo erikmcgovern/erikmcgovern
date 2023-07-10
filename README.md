@@ -6,6 +6,8 @@
   - [Scheduling Desktop Application in Java](https://github.com/erikmcgovern/SoftwareTwo)
 - <b>Capstone</b>
   - [Rent Estimator in Python](https://github.com/erikmcgovern/capstone)
+- <b>TinDog Project</b>
+  - [HTML/CSS + Bootstrap](https://github.com/erikmcgovern/TinDog)
 
 <h2> 🤳 Connect with me:</h2>
 
