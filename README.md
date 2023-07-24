@@ -1,4 +1,4 @@
-<h1>Hello, I'm Erik! <br/><a href="https://github.com/erikmcgovern">Software Developer</a></h1>
+<h1>Hello, I'm Erik! <br/><a href="https://github.com/erikmcgovern">Data Analyst.</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
