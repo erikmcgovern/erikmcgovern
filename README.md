@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Scheduling Application</b>
-  - [Scheduling Desktop Application in Java](https://github.com/erikmcgovern/SoftwareTwo)
 - <b>Rent Estimator</b>
   - [Rent Estimator in Python](https://github.com/erikmcgovern/capstone)
+- <b>Scheduling Application</b>
+  - [Scheduling Desktop Application in Java](https://github.com/erikmcgovern/SoftwareTwo)
 - <b>TinDog Project</b>
   - [HTML/CSS + Bootstrap Files](https://github.com/erikmcgovern/TinDog)
   - [Live Site](https://erikmcgovern.github.io/TinDog/)
