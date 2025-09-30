@@ -1,14 +1,6 @@
-<h1>Hello, I'm Erik! <br/><a href="https://github.com/erikmcgovern">Software Engineer</a></h1>
+<h1>Hello, I'm Erik! <br/><a href="https://github.com/erikmcgovern">Data Engineer</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Rent Estimator</b>
-  - [Rent Estimator in Python](https://github.com/erikmcgovern/capstone)
-- <b>Scheduling Application</b>
-  - [Scheduling Desktop Application in Java](https://github.com/erikmcgovern/SoftwareTwo)
-- <b>TinDog Project</b>
-  - [HTML/CSS + Bootstrap Files](https://github.com/erikmcgovern/TinDog)
-  - [Live Site](https://erikmcgovern.github.io/TinDog/)
 
 <h2> 🤳 Connect with me:</h2>
 
